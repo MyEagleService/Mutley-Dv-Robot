@@ -37,4 +37,4 @@ Tipo de Hospedagem Linux.<Br>
 ✈️ TELEGRAM<Br>
 CN Dev.   http://t.me/MyEagleChannel <Br>
 GP Dev.   http://t.me/MyEagleProject <Br>
-Perfil DV.  http://t.me/HarrisonnWells <Br>
+Perfil DEV.  http://t.me/HarrisonnWells <Br>
