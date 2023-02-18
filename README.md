@@ -31,7 +31,7 @@ Tipo de Hospedagem Linux.<Br>
 <a href="https://www.avirahost.com.br/aff.php?aff=120">COMPRE AQUI</a>.
 </p>
 
-##Se não sabe instalar solicite ajuda, isso aqui não é para amadores!<Br>
+##Se não sabe instalar solicite ajuda, isso aqui não é para amadores!<Br><Br>
 ⚠️ Quer personalizar todo o bot para seu canal? Procure o desenvolvedor, e tenha em mente que tempo é dinheiro.
 
 ✈️ TELEGRAM<Br>
