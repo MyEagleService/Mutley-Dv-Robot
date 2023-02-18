@@ -1,0 +1,11 @@
+body { 
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlfCPpGInt2CYCGJbh4JSwgHsewmqBMF1ww&usqp=CAU') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container{
+padding: 25px;   
+}    

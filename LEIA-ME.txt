@@ -1,0 +1,29 @@
+🐶 Mutley foi criado para grupos e canais de divulgação!
+
+📚 LEGENDA
+DV = DIVULGAÇÃO / DIVULGAÇÕES
+CN = CANAL / CANAIS
+GP = GRUPO / GRUPOS
+DEV = Developer / Desenvolvedor.
+
+🟨 A DV será feita nos grupos
+    que você tiver e nos grupos
+    que forem cadastrados.
+
+🟨 Você poderá fazer a DV assim
+    como todo mundo poderá.
+    
+🔥 Limite as DV diárias.
+🔥 Relatorio de DV enviados
+🔥 Defina Links Publicos ou Privados.
+🔥 As DV devem ser avaliadas pelo dono.
+🔥 Configure as DV Membros e Nao membros.
+🔥 Possível remover avaliação das publicações.
+🔥 Users insistentes = Advertencia Configuravel.
+
+SE PRECISAR DE UMA INSTALAÇÃO PERSONALIZADA NOSSO PERSONALIZAMOS PARA VOCÊ.
+
+✈️ TELEGRAM
+CN Dev.   @MyEagleChannel
+GP Dev.   @MyEagleProject
+Perfil DV. @HarrisonnWells
